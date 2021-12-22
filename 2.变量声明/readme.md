@@ -1,0 +1,1 @@
+> 变量声明在js的时候就学过了，具体请看[JavaScript基础——var,let,const](https://dingshiyi.top/detail/65)
